@@ -1,0 +1,8 @@
+# bin
+main.js
+# elm-mdc
+elm-mdc
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
